@@ -1,0 +1,28 @@
+name: positivethoughts
+favicon: null
+layout_spectrum: 0.8940445191692561
+typography_spectrum: 0.1043039602227509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.010329249780625105
+  lightness: 0.5140183970797807
+  saturation: 0.4631707293447107
+  rhythmicContrast: 0.562535312725231
+purpose: []
