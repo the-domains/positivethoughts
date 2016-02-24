@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[positivethoughts]]></title>
+        <description><![CDATA[positivethoughts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 17:17:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Positive Thinking Builds Your Skills, Boosts Your Health, and Improves Your Work]]></title>
+            <description><![CDATA[<article><h1>How Positive Thinking Builds Your Skills, Boosts Your Health, and Improves Your Work</h1><h2>What Negative Thoughts Do to Your Brain</h2><p>Positive thinking sounds useful on the surface. (Most of us would prefer to be positive rather than negative.) But, “positive thinking” is also a soft and fluffy term that is easy to dismiss. In the real world, it rarely carries the same weight as words like “work ethic” or “persistence.”</p></article>]]></description>
+            <link>undefinedhow-positive-thinking-builds-your-skills-boosts-your-health/index.html</link>
+            <guid isPermaLink="false">bf71a3c1-a74c-4cc7-88c4-d79145584730</guid>
+            <pubDate>Wed, 24 Feb 2016 17:17:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
